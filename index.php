@@ -8,7 +8,8 @@
 <h1>สวัสดีศิลปากร</h1>
 <h2>Web Tech</h2>
 
-<p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
+<p>ชื่อหลักสูตรภาษาไทย: หลักสูตรวิทยาศาตร์บัณฑิต สาขาวิทายาการข้อมูล
+ภาษาอังกฤษ: Bachelor of Science Program in Data Scince</p>
 
 <a href="https://www.w3schools.com">Visit W3Schools</a>
 
